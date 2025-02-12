@@ -5,7 +5,7 @@ git clone https://github.com/WenderGustavo/Crud-php-laravel-10.git
 
 ```
 ```sh
-cd app-laravel
+cd Crud-php-laravel-10
 ```
 
 
