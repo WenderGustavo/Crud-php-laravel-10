@@ -1,7 +1,8 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git docker...
+git clone https://github.com/WenderGustavo/Crud-php-laravel-10.git
+
 ```
 ```sh
 cd app-laravel
